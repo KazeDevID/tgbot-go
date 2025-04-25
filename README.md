@@ -1,6 +1,6 @@
 # Bot Telegram Go
 
-Simple telegram bot using golang language
+Simple telegram bot using Go language
 
 ## Installation
 
