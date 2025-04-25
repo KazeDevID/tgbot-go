@@ -35,6 +35,8 @@ Create a `config.json` file in your project root directory with the following co
     "apiKey": "YOUR_API_KEY"
 }
 ```
+- botToken: you can get your bot token at bot father.
+- apikey: You can register and get your apikey at [`here`](https://kaze-apis.my.id/)
 
 ## Running the Bot
 
